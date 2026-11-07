@@ -27,7 +27,7 @@ Dry beans are sorted into commercial varieties before they are sold, and sorting
 
 ## c. GitHub repository link
 
-https://github.com/<your-username>/<your-repo-name>
+https://github.com/gayathri-0118/ML_Assignment2/tree/main/ML-Assignment2
 
 **Live Streamlit app:** https://drybean-gayathri.streamlit.app/
 
