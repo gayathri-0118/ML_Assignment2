@@ -1,0 +1,47 @@
+{
+  "sklearn_version": "1.9.1",
+  "train_rows": 10834,
+  "test_rows": 2709,
+  "metrics": {
+    "Logistic Regression": {
+      "Accuracy": 0.9192,
+      "AUC": 0.9947,
+      "Precision": 0.9307,
+      "Recall": 0.93,
+      "F1": 0.9302,
+      "MCC": 0.9023
+    },
+    "Decision Tree": {
+      "Accuracy": 0.904,
+      "AUC": 0.97,
+      "Precision": 0.9179,
+      "Recall": 0.9179,
+      "F1": 0.9178,
+      "MCC": 0.884
+    },
+    "KNN": {
+      "Accuracy": 0.9133,
+      "AUC": 0.9872,
+      "Precision": 0.9277,
+      "Recall": 0.9239,
+      "F1": 0.9254,
+      "MCC": 0.8951
+    },
+    "Naive Bayes": {
+      "Accuracy": 0.897,
+      "AUC": 0.9911,
+      "Precision": 0.9081,
+      "Recall": 0.9082,
+      "F1": 0.9072,
+      "MCC": 0.8762
+    },
+    "Support Vector Machine": {
+      "Accuracy": 0.9236,
+      "AUC": 0.9944,
+      "Precision": 0.9356,
+      "Recall": 0.934,
+      "F1": 0.9347,
+      "MCC": 0.9076
+    }
+  }
+}
