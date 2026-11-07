@@ -29,7 +29,7 @@ Dry beans are sorted into commercial varieties before they are sold, and sorting
 
 https://github.com/<your-username>/<your-repo-name>
 
-**Live Streamlit app:** https://<your-app-name>.streamlit.app
+**Live Streamlit app:** https://drybean-gayathri.streamlit.app/
 
 ### Repository structure
 
